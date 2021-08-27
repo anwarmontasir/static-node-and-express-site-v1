@@ -7,8 +7,15 @@ router.get('/', (req, res) => {
     res.render('index', {projects});
 });
 
-router.get('/', (req, res) => {
+router.get('/about', (req, res) => {
     res.render('about');
+})
+
+router.get('/project/:id', (req, res) => {
+    const { id } = req.params;
+    const project = projects[id];
+    console.log(project);
+    res.render('project', {project});
 })
 
 module.exports = router;
