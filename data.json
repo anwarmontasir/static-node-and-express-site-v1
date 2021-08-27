@@ -6,6 +6,7 @@
             "description": "CSS Basics course for Treehouse",
             "technologies": "CSS",
             "live_link": "https://teamtreehouse.com/library/css-basics-5",
+            "github_url": "https://github.com/anwarmontasir/",
             "image_urls": [
                 "../public/images/css-basics-square.jpg",
                 "../public/images/css-basics-landscape.jpg"   
