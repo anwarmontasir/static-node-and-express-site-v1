@@ -1,0 +1,15 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "CSS Basics",
+            "description": "CSS Basics course for Treehouse",
+            "technologies": "CSS",
+            "live_link": "https://teamtreehouse.com/library/css-basics-5",
+            "image_urls": [
+                "../public/images/css-basics-square.jpg",
+                "../public/images/css-basics-landscape.jpg"   
+            ]
+        }
+    ]
+}
