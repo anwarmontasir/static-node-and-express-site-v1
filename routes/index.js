@@ -14,8 +14,8 @@ router.get('/about', (req, res) => {
 router.get('/project/:id', (req, res) => {
     const { id } = req.params;
     const project = projects[id];
-    console.log(project);
-    res.render('project', {project});
+    const landscape = projects[id].image_urls.landscape;
+    res.render('project', {project, landscape});
 })
 
 module.exports = router;

@@ -9,7 +9,11 @@
             "github_url": "https://github.com/anwarmontasir/",
             "image_urls": {
                 "square": "/static/images/css-basics-square.jpg",
-                "landscape": "/static/images/css-basics-landscape.jpg"   
+                "landscape": [
+                    "/static/images/css-basics-landscape.jpg",
+                    "/static/images/css-basics-landscape-02.jpg",
+                    "/static/images/css-basics-landscape-03.jpg"
+                ]   
             }
         },
         {
@@ -21,7 +25,11 @@
             "github_url": "https://github.com/anwarmontasir/",
             "image_urls": {
                 "square": "/static/images/css-layout-square.jpg",
-                "landscape": "/static/images/css-layout-landscape.jpg"   
+                "landscape": [
+                    "/static/images/css-layout-landscape.jpg",
+                    "/static/images/css-layout-landscape-02.jpg",
+                    "/static/images/css-layout-landscape-03.jpg"
+                ]  
             }
         },
         {
@@ -33,7 +41,11 @@
             "github_url": "https://github.com/anwarmontasir/",
             "image_urls": {
                 "square": "/static/images/css-enhancing-square.jpg",
-                "landscape": "/static/images/css-enhancing-landscape.jpg"   
+                "landscape": [
+                    "/static/images/css-enhancing-landscape.jpg",
+                    "/static/images/css-enhancing-landscape-02.jpg",
+                    "/static/images/css-enhancing-landscape-03.jpg"
+                ]   
             }
         },
         {
@@ -45,7 +57,11 @@
             "github_url": "https://github.com/anwarmontasir/",
             "image_urls": {
                 "square": "/static/images/accessibility-square.jpg",
-                "landscape": "/static/images/accessibility-landscape.jpg"   
+                "landscape": [
+                    "/static/images/accessibility-landscape.jpg",
+                    "/static/images/accessibility-landscape-02.jpg",
+                    "/static/images/accessibility-landscape-03.jpg"
+                ] 
             }
         }
     ]
