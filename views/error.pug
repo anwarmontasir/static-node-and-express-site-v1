@@ -1,0 +1,12 @@
+extends layout.pug 
+
+block content 
+  article  
+    nav.nav
+      a(href='/')
+        span &larr;
+        |  Back
+      
+    #error
+      h1= `${error.message}`
+      p.error-status= `💀 Status: ${error.status} 💀` 
