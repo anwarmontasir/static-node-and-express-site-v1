@@ -90,7 +90,6 @@ a {
 
 .box h6 {
   font-size: 1.25rem;
-  font-weight: bolder;
   letter-spacing: 2px;
 }
 
@@ -100,9 +99,12 @@ a {
 */
 .header-info-box span {
   font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 300;
   font-size: 1.4rem;
   line-height: 1;
   margin-top: -3px;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
 }
 
 nav {
@@ -119,11 +121,6 @@ nav a {
   letter-spacing: 2.5px;
   text-transform: uppercase;
   color: #555; 
-}
-
-nav a span {
-  font-weight: bold;
-  font-size: 1.25rem;
 }
 
 .sidebar {
@@ -188,7 +185,6 @@ nav a span {
 
 .header span {
   display: inline-block;
-  font-weight: bold;
 }
 
 .header button {
