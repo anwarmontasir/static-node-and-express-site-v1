@@ -14,12 +14,6 @@ block content
   article.portfolio-project-thumbs
     .projects-box.box.grid
 
-      each project in projects
-         .cell
-          a(href=`project/${project.id}`)
-            img.thumbnail(src=`${project.image_urls.square}`, alt=`${project.description}`)
-            h5 #{project.project_name}
-
       //- Use the Pug `each` iterator to loop over the projects in your data file  
       
         //- Use the example Pug code below and interpolated template literals as needed to dynamically generate:
@@ -31,4 +25,10 @@ block content
           a(href='#')
             img.thumbnail(src='https://placehold.it/550x550', alt='')
             h5 My Site
+
+      each project in projects
+         .cell
+          a(href=`project/${project.id}`)
+            img.thumbnail(src=`${project.image_urls.square}`, alt=`${project.description}`)
+            h5 #{project.project_name}
 
