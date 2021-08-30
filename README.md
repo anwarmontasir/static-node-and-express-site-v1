@@ -18,4 +18,4 @@ Since I've spent the last two years teaching at Treehouse, my portfolio includes
 
 * Custom error pages with skull emojis
 
-* App launches by typing npm start in terminal
+* App launches by typing `npm start` in terminal
