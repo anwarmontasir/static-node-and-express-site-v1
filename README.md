@@ -2,9 +2,7 @@
 
 Treehouse Full Stack JavaScript project 6
 
-Demo at https://anwarmontasir.github.io/static-node-and-express-site-v1/
-
----
+Since I've spent the last two years teaching at Treehouse, my portfolio includes samples of web development courses I've created.
 
 ## Features
 
