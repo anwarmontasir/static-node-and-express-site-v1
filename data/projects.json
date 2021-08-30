@@ -2,6 +2,23 @@
     "projects": [
         {
             "id": 0,
+            "project_name": "Practice CSS Basics",
+            "description": "CSS Basics practice sessions for Treehouse",
+            "technologies": ["CSS"],
+            "live_link": "https://teamtreehouse.com/library/practice-css-basics",
+            "github_url": "https://github.com/anwarmontasir/",
+            "image_urls": {
+                "square": "/static/images/practice-css-basics-square.jpg",
+                "landscape": [
+                    "/static/images/practice-css-basics-landscape-01.jpg",
+                    "/static/images/practice-css-basics-landscape-02.jpg",
+                    "/static/images/practice-css-basics-landscape-03.jpg",
+                    "/static/images/practice-css-basics-landscape-04.jpg"
+                ]   
+            }
+        },
+        {
+            "id": 1,
             "project_name": "CSS Basics",
             "description": "CSS Basics course for Treehouse",
             "technologies": ["CSS"],
@@ -10,14 +27,14 @@
             "image_urls": {
                 "square": "/static/images/css-basics-square.jpg",
                 "landscape": [
-                    "/static/images/css-basics-landscape.jpg",
+                    "/static/images/css-basics-landscape-01.jpg",
                     "/static/images/css-basics-landscape-02.jpg",
                     "/static/images/css-basics-landscape-03.jpg"
                 ]   
             }
         },
         {
-            "id": 1,
+            "id": 2,
             "project_name": "CSS Layout",
             "description": "CSS Layout course for Treehouse",
             "technologies": ["CSS"],
@@ -26,14 +43,14 @@
             "image_urls": {
                 "square": "/static/images/css-layout-square.jpg",
                 "landscape": [
-                    "/static/images/css-layout-landscape.jpg",
+                    "/static/images/css-layout-landscape-01.jpg",
                     "/static/images/css-layout-landscape-02.jpg",
                     "/static/images/css-layout-landscape-03.jpg"
                 ]  
             }
         },
         {
-            "id": 2,
+            "id": 3,
             "project_name": "Enhancing Design with CSS",
             "description": "Enhancing Design with CSS course for Treehouse",
             "technologies": ["CSS"],
@@ -42,14 +59,14 @@
             "image_urls": {
                 "square": "/static/images/css-enhancing-square.jpg",
                 "landscape": [
-                    "/static/images/css-enhancing-landscape.jpg",
+                    "/static/images/css-enhancing-landscape-01.jpg",
                     "/static/images/css-enhancing-landscape-02.jpg",
                     "/static/images/css-enhancing-landscape-03.jpg"
                 ]   
             }
         },
         {
-            "id": 3,
+            "id": 4,
             "project_name": "Accessibility For Web Developers",
             "description": "Accessibility For Web Developers course for Treehouse",
             "technologies": ["HTML", "CSS", "Accessibility"],
@@ -58,7 +75,7 @@
             "image_urls": {
                 "square": "/static/images/accessibility-square.jpg",
                 "landscape": [
-                    "/static/images/accessibility-landscape.jpg",
+                    "/static/images/accessibility-landscape-01.jpg",
                     "/static/images/accessibility-landscape-02.jpg",
                     "/static/images/accessibility-landscape-03.jpg"
                 ] 
