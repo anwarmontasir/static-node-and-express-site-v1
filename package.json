@@ -19,6 +19,7 @@
   "homepage": "https://github.com/anwarmontasir/static-node-and-express-site-v1#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "nodemon": "^2.0.12",
     "pug": "^3.0.2"
   }
 }
