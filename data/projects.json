@@ -6,7 +6,6 @@
             "description": "CSS Basics practice sessions for Treehouse",
             "technologies": ["CSS"],
             "live_link": "https://teamtreehouse.com/library/practice-css-basics",
-            "github_url": "https://github.com/anwarmontasir/",
             "image_urls": {
                 "square": "/static/images/practice-css-basics-square.jpg",
                 "landscape": [
@@ -23,7 +22,6 @@
             "description": "CSS Basics course for Treehouse",
             "technologies": ["CSS"],
             "live_link": "https://teamtreehouse.com/library/css-basics-5",
-            "github_url": "https://github.com/anwarmontasir/",
             "image_urls": {
                 "square": "/static/images/css-basics-square.jpg",
                 "landscape": [
@@ -39,7 +37,6 @@
             "description": "CSS Layout course for Treehouse",
             "technologies": ["CSS"],
             "live_link": "https://teamtreehouse.com/library/css-layout",
-            "github_url": "https://github.com/anwarmontasir/",
             "image_urls": {
                 "square": "/static/images/css-layout-square.jpg",
                 "landscape": [
@@ -55,7 +52,6 @@
             "description": "Enhancing Design with CSS course for Treehouse",
             "technologies": ["CSS"],
             "live_link": "https://teamtreehouse.com/library/enhancing-design-with-css",
-            "github_url": "https://github.com/anwarmontasir/",
             "image_urls": {
                 "square": "/static/images/css-enhancing-square.jpg",
                 "landscape": [
@@ -71,7 +67,6 @@
             "description": "Accessibility For Web Developers course for Treehouse",
             "technologies": ["HTML", "CSS", "Accessibility"],
             "live_link": "https://teamtreehouse.com/library/accessibility-for-web-developers",
-            "github_url": "https://github.com/anwarmontasir/",
             "image_urls": {
                 "square": "/static/images/accessibility-square.jpg",
                 "landscape": [

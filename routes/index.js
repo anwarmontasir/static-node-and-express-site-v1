@@ -11,11 +11,18 @@ router.get('/about', (req, res) => {
     res.render('about');
 })
 
-router.get('/project/:id', (req, res) => {
+router.get('/project/:id', (req, res, next) => {
     const { id } = req.params;
-    const project = projects[id];
-    const landscape = projects[id].image_urls.landscape;
-    res.render('project', {project, landscape});
+    if (projects[id]) {
+        const project = projects[id];
+        const landscape = projects[id].image_urls.landscape;
+        res.render('project', {project, landscape});
+    } else {
+        const err = new Error();
+        err.status = 404;
+        err.message = 'That project does not exist.'
+        next(err);
+    }
 })
 
 module.exports = router;
